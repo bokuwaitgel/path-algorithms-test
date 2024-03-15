@@ -1,0 +1,11 @@
+- Bidirectional A*
+- Bidirectional search
+- Fringe search
+- Iterative Deepening (IDA*)
+- Iterative Deepening DFS (IDDFS)
+- Jump Point Search (JPS)
+- Lexicographic BFS (LBFS)
+- Lifelong Planning A* (LPA*)
+- Random Walk with LIFO Queue
+- Shortest Path Faster Algorithm (SPFA)
+- Theta*
